@@ -5,6 +5,7 @@
 ## 安装前
 
 请确保已经安装ansible并配置了相关的中心机和客户机的ssh_auth,ssh_config（在中心机配置客户机的别名或机器组）
+并将中心机PHP配置文件php.ini中disable_functions中值删除后重启PHP-FPM
 
 ## 安装
 
