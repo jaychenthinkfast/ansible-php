@@ -1,6 +1,6 @@
 {
     "name": "chenjiesuper/ansible-php",
-    "description": "ansible,php",
+    "description": "使用PHP 执行ansible shell命令的小工具",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
